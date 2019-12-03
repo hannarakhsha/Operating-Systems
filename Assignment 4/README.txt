@@ -5,6 +5,6 @@ Assignment: 4
 -Compile program at file location with:
     gcc prog4.c
 
--Run part-a with:
+-Run program with:
     ./a.out
 
